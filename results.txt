@@ -1,0 +1,2 @@
+Evaluation results: {'eval_loss': 153.644775390625, 'eval_rouge1': 17.8329, 'eval_rouge2': 8.4652, 'eval_rougeL': 13.3135, 'eval_rougeLsum': 16.2019, 'eval_gen_len': 303.3627450980392, 'eval_runtime': 16.5231, 'eval_samples_per_second': 6.173, 'eval_steps_per_second': 0.121}
+Evaluation results: {'eval_loss': 67.21266174316406, 'eval_rouge1': 17.0379, 'eval_rouge2': 7.5199, 'eval_rougeL': 12.5657, 'eval_rougeLsum': 15.5801, 'eval_gen_len': 290.87254901960785, 'eval_runtime': 14.5962, 'eval_samples_per_second': 6.988, 'eval_steps_per_second': 0.137}
